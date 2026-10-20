@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Asesmen Harian Informatika SMA X - Bab 1",
+  "description": "Aplikasi Asesmen Harian SMA Kelas X BAB 1: Menelusuri Data dan Kebenaran Informasi di Dunia Digital dengan proctoring anti-curang, penilaian otomatis, dashboard analitik guru, dan cetak hasil.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
